@@ -69,5 +69,4 @@ The first 20 hours: https://www.youtube.com/watch?v=5MgBikgcWnY
 
 # Contribute to this list
 If you would like to contribute to this list you can reach out to me via email, twitter, or fork this repository and make a pull request.
-* Email: vic.yeh at ucla dot edu
-* Twitter: @vicohyeh
+* Email: mumtazahmadui at gmail dot com
